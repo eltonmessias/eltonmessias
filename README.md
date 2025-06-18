@@ -9,8 +9,8 @@ eltonmessias
 
 <p align="center">
 <a href="https://github.com/eltonmessias">
-  <img width=400 src='https://github-readme-stats.vercel.app/api?username=eltonmessias&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-  <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=eltonmessias&theme=vue-dark&hide_border=true' />
+
+
   <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=eltonmessias&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count-private=true' />
 </a>
 </p>
